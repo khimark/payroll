@@ -48,7 +48,7 @@ int main()
     //print payslip
     printf("Employee No:t%d\n",emp_no);
     printf("Employee Name:\t%s\n",name);
-    printf("Kra pin:\%d\n",kra pin);
+    printf("Kra pin:\t%d\n",kra pin);
     printf("normal_pay:\t%d\n",normal_pay);
     printf("Overtime pay\t%d\n",overtime_pay);
     printf("Gross pay:t%d\n",gross);
